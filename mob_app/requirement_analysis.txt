@@ -1,0 +1,11 @@
+A react native application
+With standard theme, color pallet, minimalistic yet asthetic design
+Connect 'analysis copy.ipynb' with application
+Use data from 'analysis copy.ipynb'
+On home screen, you should list the college lists with all clusters of criterias
+Impliment tabs structure with Homescreen as default tab
+Other tab would be Search icon tab
+    - It will ask user for his location access
+    - It will have a text input, where user will enter only number (Add constraint)
+    - Based on the input the analysis python notebook will run with student_rank = entered_value
+    - The last priority table and plot should be shown to the user upon running the analysis
